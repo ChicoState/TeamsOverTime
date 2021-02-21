@@ -1,0 +1,3 @@
+[submodule "BlxMusicMaker"]
+	path = BlxMusicMaker
+	url = https://github.com/ChicoState/BlxMusicMaker.git
