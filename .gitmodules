@@ -1,3 +1,6 @@
 [submodule "BlxMusicMaker"]
 	path = BlxMusicMaker
 	url = https://github.com/ChicoState/BlxMusicMaker.git
+[submodule "Booked"]
+	path = Booked
+	url = https://github.com/ChicoState/Booked.git
